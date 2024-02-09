@@ -9,3 +9,5 @@ This dataset covers a total of 12 masks over 88 images. The plan is to expand th
 Currently, Bonklenet can identify the Miru, Kaukau, Huna, Pakari, Mahiki, Rau, Hau, Ruru, Komau, Matatu, Akaku, and Kakama masks with about 90% accuracy.
 
 I started this project as a way to better understand and learn CNNs. This repo will serve as documentation of this journey.
+
+All images belong to their respective holders. This project purely serves in an educational capacity.
