@@ -7,3 +7,5 @@ The network will be trained off of the Nui Rama Image Dataset, the initial versi
 This dataset covers a total of 12 masks over 89 images. The plan is to expand the dataset over time and update the model accordingly.
 
 Currently, Bonklenet can identify the Miru, Kaukau, Huna, Pakari, Mahiki, Rau, Hau, Ruru, Komau, Matatu, Akaku, and Kakama masks with about 90% accuracy.
+
+I started this project as a way to better understand and learn CNNs. This repo will serve as documentation of this journey.
